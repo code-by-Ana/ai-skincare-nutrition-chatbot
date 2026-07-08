@@ -1,0 +1,54 @@
+{
+  "skin_types": {
+    "oily": {
+      "description": "Oily skin produces excess sebum, leading to a shiny appearance and potential acne breakouts.",
+      "recommendations": {
+        "cleanser": "Gel-based cleanser with salicylic acid",
+        "toner": "Alcohol-free toner with witch hazel",
+        "moisturizer": "Lightweight, oil-free moisturizer",
+        "sunscreen": "Matte finish, broad-spectrum SPF 30"
+      },
+      "key_ingredients": ["Salicylic Acid", "Niacinamide", "Witch Hazel"]
+    },
+    "dry": {
+      "description": "Dry skin lacks sufficient moisture, often feeling tight and appearing flaky.",
+      "recommendations": {
+        "cleanser": "Cream-based, hydrating cleanser",
+        "toner": "Hydrating toner with glycerin",
+        "moisturizer": "Rich, emollient moisturizer with hyaluronic acid",
+        "sunscreen": "Hydrating broad-spectrum SPF 30"
+      },
+      "key_ingredients": ["Hyaluronic Acid", "Glycerin", "Shea Butter"]
+    },
+    "combination": {
+      "description": "Combination skin has both oily and dry areas, typically oily T-zone and dry cheeks.",
+      "recommendations": {
+        "cleanser": "Gel Cleanser (e.g., Fresh Soy Cleanser)",
+        "serum": "Niacinamide Serum (e.g., Glossier Super Pure)",
+        "moisturizer": "Lightweight Moisturizer (e.g., Belif Aqua Bomb)"
+      },
+      "key_ingredients": ["Niacinamide", "Hyaluronic Acid", "Green Tea Extract"]
+    },
+    "sensitive": {
+      "description": "Sensitive skin is prone to irritation and requires gentle care.",
+      "recommendations": {
+        "cleanser": "Fragrance-Free Cleanser (e.g., Vanicream)",
+        "serum": "Centella Asiatica Serum (e.g., Purito Unscented Serum)",
+        "cream": "Ceramide Cream (e.g., Dr. Jart+ Cicapair)"
+      },
+      "key_ingredients": ["Centella Asiatica", "Ceramides", "Oat Extract"]
+    }
+  },
+  "common_concerns": {
+    "acne": {
+      "description": "A skin condition characterized by red pimples, often due to inflamed or infected sebaceous glands.",
+      "ingredients": ["Benzoyl Peroxide", "Salicylic Acid", "Tea Tree Oil"],
+      "product_types": ["Spot treatments", "Oil-free moisturizers", "Clay masks"]
+    },
+    "hyperpigmentation": {
+      "description": "Darkened areas on the skin caused by excess melanin production.",
+      "ingredients": ["Vitamin C", "Niacinamide", "Licorice Extract"],
+      "product_types": ["Brightening serums", "Exfoliating treatments", "Sunscreen"]
+    }
+  }
+}

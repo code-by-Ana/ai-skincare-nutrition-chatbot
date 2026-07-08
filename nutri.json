@@ -1,0 +1,37 @@
+{
+    "categories": {
+        "general_health": {
+            "description": "Foods that promote overall well-being and maintain bodily functions.",
+            "foods": [
+                {
+                    "name": "Leafy Greens",
+                    "benefit": "Rich in vitamins A, C, and K; support immune function and bone health.",
+                    "examples": ["Spinach", "Kale", "Swiss Chard"]
+                },  
+                {
+                    "name": "Whole Grains",
+                    "benefit": "Provide essential fibers and help regulate blood sugar levels.",
+                    "examples": ["Brown Rice", "Quinoa", "Oats"]
+                }
+            ]  
+        },  
+        "skin_health": {
+            "description": "Nutrients that specifically benefit skin appearance and function.",
+            "foods": [
+                {
+                    "name": "Fatty Fish",
+                    "benefit": "High in omega-3 fatty acids; reduce inflammation and keep skin moisturized.",
+                    "examples": ["Salmon", "Mackerel", "Sardines"]
+                },  
+                {
+                    "name": "Nuts and Seeds",
+                    "benefit": "Contain vitamin E and zinc; protect skin from oxidative damage.",
+                    "examples": ["Almonds", "Sunflower Seeds", "Chia Seeds"]
+                }
+            ]  
+        }  
+    },  
+    "science": {
+        "nutrient_synergy": "Combining vitamin C-rich foods with iron-rich foods enhances iron absorption, benefiting overall health."
+    }
+}  
