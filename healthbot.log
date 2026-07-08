@@ -1,7 +1,0 @@
-ERROR:root:API Connection Error: 503 Server Error: Service Unavailable for url: https://openrouter.ai/api/v1/chat/completions
-ERROR:root:API Connection Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
-ERROR:root:API Connection Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
-ERROR:root:API Connection Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
-ERROR:root:API Connection Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
-ERROR:root:API Connection Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
-ERROR:root:API Connection Error: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
